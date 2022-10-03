@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664803159 source:c:\users\analu\onedrive\documentos\estudo_pp\trabalhofinalpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
